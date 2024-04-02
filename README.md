@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DinoNLP
+- 👀 I’m interested in Natural Language Processing
+- 🌱 I’m currently learning Machine Learning Algorithm
+- 📫 How to reach me dinonlp45@gmail.com
